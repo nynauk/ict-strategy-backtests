@@ -1,0 +1,2 @@
+symbols,total_trades,wins,losses,open,winrate%,overall_sum_R,overall_pnl,longest_win_streak,longest_lose_streak,highest_win_R,highest_win_pnl,profit_factor,sharpe_per_trade,avg_duration_min,med_duration_min,max_duration_min,min_duration_min,max_drawdown_money,avg_R_all,avg_R_wins
+4,84,27,57,0,32.14,5.11,466.95,4,8,2.31,245.99,1.082,0.039,117.2,57.5,1320.0,5.0,1552.01,0.061,2.301

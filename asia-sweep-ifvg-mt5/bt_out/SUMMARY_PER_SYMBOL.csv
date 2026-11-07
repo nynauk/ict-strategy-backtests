@@ -1,0 +1,5 @@
+symbol,trades,wins,losses,open,winrate%,sum_R,pnl,equity_end,longest_win_streak,longest_lose_streak,highest_win_R,highest_win_pnl,profit_factor,sharpe_per_trade,avg_duration_min,med_duration_min,max_duration_min,min_duration_min,max_drawdown_money,avg_R_all,avg_R_wins
+EURUSD,15,7,8,0,46.67,8.11,820.93,10820.93,4,5,2.31,245.99,1.998,0.317,83.7,45.0,315.0,10.0,501.4,0.541,2.302
+GER40.cash,29,8,21,0,27.59,-2.6,-287.21,9712.79,3,6,2.3,236.03,0.864,-0.06,160.0,75.0,1320.0,10.0,785.45,-0.09,2.3
+GBPUSD,19,7,12,0,36.84,4.1,393.38,10393.38,3,4,2.3,233.83,1.328,0.132,70.3,40.0,280.0,5.0,365.22,0.216,2.3
+UK100.cash,21,5,16,0,23.81,-4.5,-460.16,9539.84,2,6,2.3,219.89,0.702,-0.149,124.5,85.0,385.0,10.0,692.22,-0.214,2.3

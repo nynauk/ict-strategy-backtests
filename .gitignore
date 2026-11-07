@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+.idea/
+.claude/
+*_M5*.csv
+*_M1*.csv
+*_H1*.csv
+*_H4*.csv
+*_D1*.csv
+data/
