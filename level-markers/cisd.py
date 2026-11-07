@@ -2,7 +2,7 @@
 import pandas as pd
 
 # Load data
-df = pd.read_csv('/mnt/data/5min1000Cnas100.csv', parse_dates=True, index_col=0)
+df = pd.read_csv('5min1000Cnas100.csv', parse_dates=True, index_col=0)
 
 # Normalize column names
 df.columns = [c.lower() for c in df.columns]
