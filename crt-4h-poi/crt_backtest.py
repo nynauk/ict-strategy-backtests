@@ -17,11 +17,11 @@ import pandas as pd
 
 # ============================== CONFIG =====================================
 CFG = dict(
-    CSV            = "/mnt/user-data/uploads/Downloads/USATECHIDXUSD_M5.csv",
+    CSV            = "data/USATECHIDXUSD_M5.csv",
     CSV_TZ         = "UTC",                 # timezone of the raw timestamps
     SESSION_TZ     = "America/New_York",    # anchor tz for 4H / daily bars
     DAY_OPEN_HOUR  = 18,                    # 18:00 ET = CME session open
-    OUT_DIR        = "/home/claude/out",
+    OUT_DIR        = "out",
 
     DATE_FROM      = None,                  # e.g. "2023-06-01"
     DATE_TO        = None,
